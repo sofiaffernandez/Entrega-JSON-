@@ -1,0 +1,82 @@
+{
+        "supermercados": [
+           {
+              "nombre": "Mercadona",
+              "direccion": "C. de los Vascos, 28040 Madrid",
+              "latitud": 40.44914751160534, 
+              "longitud": -3.7119117008997176,
+              "productos": [
+                 {
+                    "nombre": "Leche",
+                    "oferta": false,
+                    "vigencia": "",
+                    "cantidad": 1,
+                    "unidad": "caja",
+                    "precio": 5.50,
+                    "adquirido": false
+                 },
+                 {
+                    "nombre": "Pan de molde sin gluten",
+                    "oferta": false,
+                    "vigencia": "",
+                    "cantidad": 1,
+                    "unidad": "unidad",
+                    "precio": 2.99,
+                    "adquirido": true
+                 }
+              ]
+           },
+           {
+              "nombre": "Carrefour Market",
+              "direccion": "Glorieta Cuatro Caminos",
+              "latitud": 40.44749348932581, 
+              "longitud": -3.7043211533613785,
+              "productos": [
+                 {
+                    "nombre": "Fresas",
+                    "oferta": true,
+                    "vigencia": "2023-05-22",
+                    "cantidad": 1,
+                    "unidad": "unidad",
+                    "precio": 2.99,
+                    "adquirido": false
+                 },
+                 {
+                    "nombre": "Plátanos",
+                    "oferta": false,
+                    "vigencia": "",
+                    "cantidad": 0.5,
+                    "unidad": "kilos",
+                    "precio": 1.99,
+                    "adquirido": false
+                 }
+                ]
+            },
+            {
+                "nombre": "Lidl",
+                "direccion": "C. de Bravo Murillo, 28020 Madrid",
+                "latitud": 40.44916838962049, 
+                "longitud": -3.703807888037398,
+                "productos": [
+                   {
+                      "nombre": "Guacamole",
+                      "oferta": true,
+                      "vigencia": "2023-06-01",
+                      "cantidad": 1,
+                      "unidad": "unidad",
+                      "precio": 2.45,
+                      "adquirido": false
+                   },
+                   {
+                      "nombre": "Helados de chocolate",
+                      "oferta": true,
+                      "vigencia": "2023-06-01",
+                      "cantidad": 1,
+                      "unidad": "caja",
+                      "precio": 1.85,
+                      "adquirido": false
+                   }
+                  ]
+              }
+    ]
+}

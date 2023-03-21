@@ -1,0 +1,21 @@
+{
+    "supermercados": [
+       {
+          "nombre": "ejemplo supermercado",
+          "direccion": "Calle Ejemplo",
+          "latitud": -0.00000,
+          "longitud": 0.00000,
+          "productos": [
+             {
+                "nombre": "ejemplo producto",
+                "oferta": true,
+                "vigencia": "0000-00-00",
+                "cantidad": 1,
+                "unidad": "unidad",
+                "precio": 1.00,
+                "adquirido": false
+             }
+          ]
+       }
+    ]
+}

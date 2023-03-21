@@ -1,0 +1,18 @@
+<supermercados>
+  <supermercado>
+    <nombre>Ejemplo supermercado</nombre>
+    <direccion>Calle Ejemplo</direccion>
+    <latitud>0.0000</latitud>
+    <longitud>-0.00000</longitud>
+    <productos>
+      <producto>
+        <nombre>Ejemplo producto</nombre>
+        <oferta>true</oferta>
+        <vigencia>2000-00-00</vigencia>
+        <cantidad>1</cantidad>
+        <unidad>unidad</unidad>
+        <precio>1.00</precio>
+        <adquirido>false</adquirido>
+      </producto>
+  </supermercado>
+</supermercados>
